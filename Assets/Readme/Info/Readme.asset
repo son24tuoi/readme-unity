@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a41c63f96cfde6c47a79776e6b7839de, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 39e512355cef01d4e921e08072af72c0, type: 3}
+  title: Onet Connect - Full Game | Template
+  sections:
+  - heading: 
+    text: Create your own onet connect game based on this complete project!
+    linkText: 
+    url: 
+  - heading: Support
+    text: If you have any questions feel free to contact us
+    linkText: Gmail
+    url: mailto:oneartistmobilehelp@gmail.com
+  - heading: Try a demo
+    text: 
+    linkText: Android
+    url: https://play.google.com/store/apps/details?id=com.oneartist.puzzle.onetfood
+  loadedLayout: 1
