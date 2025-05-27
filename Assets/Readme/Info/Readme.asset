@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Readme
   m_EditorClassIdentifier: 
   icon: {fileID: 2800000, guid: 39e512355cef01d4e921e08072af72c0, type: 3}
-  title: Onet Connect - Full Game | Template
+  title: Template
   sections:
   - heading: 
-    text: Create your own onet connect game based on this complete project!
+    text: Hello World!
     linkText: 
     url: 
   - heading: Support
